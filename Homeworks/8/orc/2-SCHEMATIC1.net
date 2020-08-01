@@ -1,0 +1,7 @@
+* source 2
+E_U1         N00029 0 VALUE {LIMIT(V(N00074,0)*1E6,-15V,+15V)}
+R_R1         N00074 N00029  1k  
+C_C1         N00211 N00074  1n  
+V_V2         N00238 0 1Vdc
+C_C2         N00211 N00029  1n  
+R_R2         N00238 N00211  1k  

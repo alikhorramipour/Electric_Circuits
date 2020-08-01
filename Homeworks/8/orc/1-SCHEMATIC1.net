@@ -1,0 +1,7 @@
+* source 1
+C_2uF         N00141 N00550  1n  
+I_I2         N00141 0 DC 0Adc AC 0Aac
++SIN 0 10 318.319 0 0 0
+R_R1         0 N00141  2k  
+R_R2         0 N00550  4k  
+L_L1         N00141 0  50mH  
